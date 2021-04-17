@@ -27,7 +27,7 @@
 
 **React.js é, portanto, uma biblioteca de JavaScript, open source, utilizada para construir user interfaces, nomeadas para aplicações de página única.** 
 
-**O diferencial do React é ser rápida, escalável e simples, podendo ser usada com outras bibliotecas ou frameworks de JavaScript, como o Angular JS. **
+**O diferencial do React é ser rápida, escalável e simples, podendo ser usada com outras bibliotecas ou frameworks de JavaScript, como o Angular JS.**
 
 **Assim, possibilita aos desenvolvedores criarem aplicações web, tendo a facilidade de alterar elementos ou os dados exibidos, sem recarregar a página. Por exemplo, o número de likes de uma rede social pode aumentar ou diminuir sem a necessidade de realizar o refresh na página.**
 
