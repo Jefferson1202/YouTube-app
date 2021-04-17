@@ -41,6 +41,6 @@ Tutorial de como instalar: [Como instalar e utilizar o React no Windows](https:/
 
 **Fonte: https://github.com/mui-org/material-ui**
 
-Tutorial de como instalar: [Integração do Material UI com ReactJS](https://blog.rocketseat.com.br/react-material-ui/) ou [Pelo site oficial do Material-UI](https://material-ui.com/pt/)
+Tutorial de como instalar: [Integração do Material UI com ReactJS](https://blog.rocketseat.com.br/react-material-ui/) ou [Pelo Site Oficial do Material-UI](https://material-ui.com/pt/)
 
 
