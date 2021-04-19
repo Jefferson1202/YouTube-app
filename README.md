@@ -1,46 +1,70 @@
-# YouTube-app
+# Getting Started with Create React App
 
-**Com base nesse tutorial do youtube [Recriando a interface  do youtube com Material-UI + React.JS](https://www.youtube.com/watch?v=u9FnmBdBl5k) foi realizado uma clonagem da tela inicial do youtube.**
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-**Link do projeto concluído no Netlify:** https://youtube-materialui.netlify.app/
+## Available Scripts
 
-## IDE
-* Visual Studio Code
-* Versão: 1.54.0 
-* [Download Visual Studio Code](https://code.visualstudio.com/)
+In the project directory, you can run:
 
-## As versões de pacote que utiliza esse projeto
+### `yarn start`
 
-```
-{
-   "@material-ui/core": "^4.10.2",
-    "@material-ui/icons": "^4.9.1",
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
-}
-```    
-## O que é [React.js?](https://pt-br.reactjs.org/)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-**React.js é, portanto, uma biblioteca de JavaScript, open source, utilizada para construir user interfaces, nomeadas para aplicações de página única.** 
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-**O diferencial do React é ser rápida, escalável e simples, podendo ser usada com outras bibliotecas ou frameworks de JavaScript, como o Angular JS.**
+### `yarn test`
 
-**Assim, possibilita aos desenvolvedores criarem aplicações web, tendo a facilidade de alterar elementos ou os dados exibidos, sem recarregar a página. Por exemplo, o número de likes de uma rede social pode aumentar ou diminuir sem a necessidade de realizar o refresh na página.**
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-**Fonte: https://www.digitalhouse.com/br/blog/o-que-e-react-no-javascript-e-para-que-serve#:~:text=Conhecido%20como%20React.,no%20mundo%20do%20desenvolvimento%20web.**
+### `yarn build`
 
-Tutorial de como instalar: [Como instalar e utilizar o React no Windows](https://www.visualdicas.com.br/programacao/react/78-como-instalar-e-utilizar-o-react-no-windows#:~:text=%20Como%20habilitar%20o%20Windows%20para%20a%20utiliza%C3%A7%C3%A3o,o%20arquivo%20execut%C3%A1vel%20%28%20.msi%29%20para...%20More%20)
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## O que é [Material-UI?](https://material-ui.com/pt/)
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-**Material-UI é uma biblioteca de componentes simples e personalizável para criar aplicativos React mais rápidos, bonitos e acessíveis.**
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-**Fonte: https://github.com/mui-org/material-ui**
+### `yarn eject`
 
-Tutorial de como instalar: [Integração do Material UI com ReactJS](https://blog.rocketseat.com.br/react-material-ui/) ou [Pelo site oficial do Material-UI](https://material-ui.com/pt/)
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `yarn build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
