@@ -2,7 +2,7 @@
 
 **Com base nesse tutorial do youtube [Recriando a interface  do youtube com Material-UI + React.JS](https://www.youtube.com/watch?v=u9FnmBdBl5k) foi realizado uma clonagem da tela inicial do youtube.**
 
-**Link do projeto concluído no Netlify:** https://clonagemdeinterface-youtube-jorge.netlify.app/
+**Link do projeto concluído no Netlify:** 
 
 ## IDE
 * Visual Studio Code
