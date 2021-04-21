@@ -17,7 +17,7 @@
 
 ```
 {
-   "@material-ui/core": "^4.10.2",
+    "@material-ui/core": "^4.10.2",
     "@material-ui/icons": "^4.9.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
